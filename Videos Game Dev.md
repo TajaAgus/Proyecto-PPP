@@ -1,12 +1,15 @@
+### Videos Aprendizaje General
 - Unity en español pantallazo del entorno fácil:
 	https://youtube.com/playlist?list=PL6dM-wegAFwiKysmU6xJuNO4MV6-dNO-f&si=1QTqXjIHCtW20GW7
-
+	
 - Cursos para empezar Unity en español:
 	https://www.youtube.com/watch?v=3ROXafxkd6E
 	https://www.youtube.com/watch?v=E8IpxqLPlUE
+	
 - Cursos para empezar unity en ingles:
 	https://www.youtube.com/watch?v=pwZpJzpE2lQ
 	https://www.youtube.com/watch?v=vFjXKOXdgGo&t=188s
+	
 - Unity basico completo (Code Monkey):
 	https://www.youtube.com/watch?v=AmGSEH7QcDg
 
